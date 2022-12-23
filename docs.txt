@@ -1,0 +1,6 @@
+mongodb+srv://chunga:9d3FsMNFJ7J01iOQ@cluster0.gtyqewz.mongodb.net/pruebas
+
+credenciales = {
+			usuario: chunga
+			clave: 9d3FsMNFJ7J01iOQ
+}
